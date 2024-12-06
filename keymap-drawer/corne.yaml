@@ -1,6 +1,6 @@
 layout: {qmk_keyboard: corne_rotated, layout_name: LAYOUT_split_3x6_3}
 layers:
-  default: [Esc, Q, W, F, P, G, Y, U, I, O, P, Alt, ↹, A, S, D, F, G, H, J, K, L, ;, '''', Shift, Z, X, C, V, B, N, M, ',', ., /, ⌦, lower, Ctrl, ␣, ⏎, ⌫, raise]
+  default: [Esc, Q, W, F, P, G, J, L, U, Y, ;, Alt, ↹, A, R, S, T, D, H, N, E, I, O, '''', Shift, Z, X, C, V, B, K, M, ',', ., /, ⌦, lower, Ctrl, ␣, ⏎, ⌫, raise]
   lower:
   - ↹
   - '1'
